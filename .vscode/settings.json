@@ -1,0 +1,11 @@
+// {
+//     "eslint.workingDirectories": [
+//         "./apps/front"
+//     ],
+//     "eslint.probe": [
+//         "javascript",
+//         "javascriptreact",
+//         "typescript",
+//         "typescriptreact"
+//     ]
+// }
